@@ -14,7 +14,7 @@ Major features of MariaCpp
     _thin_ means that C++ objects have none (or minimal) internal state,
     and you can possibly mix C++ code with native C-API
 
-*   works with C++98, C++11, C++14 standards
+*   works with, C++11, C++14 standards
 
 *   it takes benefits of 2 major C++ paradigms: __RAII__ and __exceptions__
 
